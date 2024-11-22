@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">lab05</string>
+    <string name="android_pizza_shop">Android Pizza Shop</string>
+    <string name="pizza_image_desc">Image of a pizza</string>
+    <string name="choose_your_pizza">Choose your pizza</string>
+    <string name="small_rm5">Small (RM5)</string>
+    <string name="medium_rm7">Medium (RM7)</string>
+    <string name="large_rm10">Large (RM10)</string>
+    <string name="onion_rm1">Onions (RM1)</string>
+    <string name="olives_rm2">Olives (RM2)</string>
+    <string name="tomatoes_rm3">Tomatoes (RM3)</string>
+    <string name="place_order">Place Your Order</string>
+    <string name="total_price">Total price is:</string>
+</resources>
